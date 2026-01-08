@@ -1,0 +1,5 @@
+{
+  "name": "NeuroChat - NLP Intent Visualizer",
+  "description": "A sophisticated chat interface that visualizes Natural Language Processing (NLP) concepts. It uses the Gemini API to simulate a Transformer-based backend (like BERT), displaying real-time intent classification confidence scores and named entity recognition (NER) extraction.",
+  "requestFramePermissions": []
+}
